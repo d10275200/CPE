@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470205225 source:c:\users\nolnctu\desktop\cpe\test_cpp\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<sstream>
+
